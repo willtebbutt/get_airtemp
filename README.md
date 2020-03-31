@@ -1,5 +1,5 @@
 # get_airtemp
 
-Run the code in `preprocess.jl` to download and format the air temperature data.
+Run `julia preprocess.jl` from within this folder.
 
 Pulls data from http://www.sotonmet.co.uk/ and related websites.
